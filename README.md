@@ -1,5 +1,7 @@
 
 # TAREA 8 
+### Curso: Docker && Kubernate
+### Estudiante: Ronald Choque Fuentes
 
 **a) Descripción del proyecto:**
 - Stack desplegado (frontend + backend)
